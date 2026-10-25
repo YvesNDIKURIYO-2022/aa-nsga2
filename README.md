@@ -198,6 +198,3 @@ A machine-readable `CITATION.cff` is included; GitHub renders a
 This research was supported by the National Natural Science Foundation of China
 (Grant No. 71971220) and the Natural Science Foundation of Hunan Province,
 China (Grant Nos. 2023JJ30710 and 2022JJ31020).
-5. **Fixed the citation block** to match the author order and title in your manuscript (`Ndikuriyo, Yves and Zhang, Yinggui`), and added the `note = {Under review}` field.
-6. **Added the second author's email and ORCID** from `Authors details.tex`, so the Contact section is complete.
-7. **Added the badges at the top** — the MIT and CC-BY-4.0 badges link directly to `LICENSE` and `LICENSE-figures.md`, which is the correct way to indicate a dual-license repo.
